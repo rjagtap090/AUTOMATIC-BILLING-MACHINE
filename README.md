@@ -1,10 +1,10 @@
 **Automatic Billing Machine**
 
-Overview
+**Overview**
 
 This project aims to automate the billing process in supermarkets using RFID technology and NodeMCU. The system detects products placed in a shopping trolley using an RFID reader, displays the product price on an LCD, and allows verification of the bill at the exit via a website. This project was developed as a mini-project for the Electronics Telecommunication Engineering Department at AISSMS Institute of Information Technology, Pune.
 
-Features
+**Features**
 
 Automatic Product Detection: Uses an EM-18 RFID reader to detect products placed in the trolley.
 
@@ -14,7 +14,7 @@ Dynamic Price Update: Automatically updates the total price as items are added o
 
 Cloud Verification: Allows the shopkeeper to verify the bill using a website.
 
-Hardware Components
+**Hardware Components**
 
 EM-18 RFID Reader Module
 
@@ -46,7 +46,7 @@ Circuit Diagram
 
 Block Diagram
 
-Working
+**Working**
 
 Initialization: The system initializes by displaying a welcome message on the LCD.
 
